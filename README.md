@@ -11,7 +11,7 @@
 ### Azure Container
   <li>HTTP 또는 HTTPS를 통해 어디서나 액세스가능</li>
   <li>텍스트 또는 이진 파일과 같은 대량의 비구조적 데이터 저장 가능</li>
-  <a href="https://github.com/littleduck1219/Azure_storage/tree/main/Container(Blob)"
+  <a href="https://github.com/littleduck1219/Azure_storage/tree/main/Container(Blob)">---->Containe:Blob</a>
   
 ### Azure Files
   <li>SMB 3.0을 통해 어디서나 엑세스 가능</li>
