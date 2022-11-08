@@ -21,6 +21,7 @@
 ### Azure Queues
   <li>HTTP 또는 HTTPS를 통해 어디서나 엑세스 가능/비동기 통신용 큐 기반 매커니즘 제공</li>
   <li>큐에 최대 64kb크기의 메세지 저장가능</li>
+  <a href="https://github.com/littleduck1219/Azure_storage/tree/main/Queue">---->Quenes</a>
   
 ### Azure Tables
   <li>HTTP 또는 HTTPS를 통해 어디서나 엑세스 가능</li>
