@@ -16,6 +16,7 @@
 ### Azure Files
   <li>SMB 3.0을 통해 어디서나 엑세스 가능</li>
   <li>항상 사용이 가능한 네트워크 파일 공유 호스트</li>
+  <a href="https://github.com/littleduck1219/Azure_storage/tree/main/Files">---->Files</a>
   
 ### Azure Queues
   <li>HTTP 또는 HTTPS를 통해 어디서나 엑세스 가능/비동기 통신용 큐 기반 매커니즘 제공</li>
