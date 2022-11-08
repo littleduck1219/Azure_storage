@@ -1,6 +1,6 @@
 # Container:Blob
 
-<img src="https://user-images.githubusercontent.com/107936957/200569746-8ef6c6a9-4f39-4535-9b4f-9e23be956a95.png">
+
 
 ## Whate is Blob storage?
 Blob Storage는 <u><b>비정형 데이터를 위한 클라우드 스토리지 유형</b></u> 입니다. Binary Large Object의 줄임말인 "블롭"은 파일 형식을 반드시 따를 필요는 없는 이진 형식의 데이터 덩어리입니다. Blob 스토리지는 데이터 레이크라고 하는 비계층적 스토리지 영역에 이러한 대량의 데이터를 보관합니다.
@@ -8,4 +8,18 @@ Bob의 의복 보관 방법으로 인해 특정 의복 품목을 빠르게 찾�
 
 Blob Storage를 사용하면 개발자가 클라우드 기반 및 모바일 애플리케이션용 데이터 레이크를 구축할 수 있습니다. Blob Storage는 미디어, 대용량 파일 백업 및 데이터 로그를 저장하는 데 특히 유용합니다. 그러나 일반적으로 더 계층적인 데이터베이스에 들어갈 수 있는 파일을 포함하여 무엇이든 사용할 수 있습니다.
 
+## Block Blob Storage
 
+<img src="https://user-images.githubusercontent.com/107936957/200569746-8ef6c6a9-4f39-4535-9b4f-9e23be956a95.png">
+
+### Blob Storage의 일반적인 용도
+<li>브라우저에 이미지나 문서 직접 제공</li>
+<li>설치 등의 분산 액세스용으로 파일 저장</li>
+<li>비디오 및 오디오 스트리밍</li>
+<li>백업 및 복원, 재해 복구, 보관을 위한 데이터 저장</li>
+<li>온-프레미스 또는 Azure호스팅 서비스에서 분석할 수 있도록 데이터 저장</li>
+
+### Blob Service 에 포함된 세가지 리소스 유형
+<li>스토리지 계정</li>
+<li>스토리지 계정의 컨테이너</li>
+<li>컨테이너의 Blob</li>
